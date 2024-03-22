@@ -10,6 +10,14 @@
 -->
 
 
+- 🔭 Actualmente estoy estudiando Desarrollo de Software.
+- 🌱 Actualmente estoy aprendiendo C#, Java y me gustaría aprender algunos lenguajes de desarrollo web como Javascript, CSS, HTML, etcétera.
+- 🤔 Estoy buscando ayuda sobre los lenguajes que estoy aprendiendo y me gustaría que me ayudaran con eso.
+- 💬 Consultame sobre lo que necesites, incluso si necesitas ayuda con tus proyectos, podríamos colaborar.
+- 📫 Cómo comunicarse conmigo: Pueden contactarme a través de programming.matt@gmail.com o +57 3126706356
+- 😄 Pronombres: El
+-->
+
 ![image](https://github.com/MateoLopezAr/MateoLopezAr/assets/163686559/8ec12db0-45aa-4352-b212-e8d7f590d75c)
 ![image](https://github.com/MateoLopezAr/MateoLopezAr/assets/163686559/bb169b1e-a081-4a3d-b92b-aa10856791cb)
 ![image](https://github.com/MateoLopezAr/MateoLopezAr/assets/163686559/fe41d2d2-e136-4beb-9d8d-03e7bfb8c2ed)
