@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Software Development.
 - 🌱 I’m currently learning C#, Java and I'd like to learn some web developments languages like Javascript, CSS, HTML, etcetera.
-- 🤔 I’m looking for help about the languages I'm learning, and would like you to help me with that.
+- 🤔 I’m looking for learning and growing everyday.
 - 💬 Ask me about whatever you need, even if you need help with your proyects, we could colaborate.
 - 📫 How to reach me: Can contact me trough programming.matt@gmail.com or +57 3126706356
 - 😄 Pronouns: He/Him/His
@@ -12,7 +12,7 @@
 
 - 🔭 Actualmente estoy estudiando Desarrollo de Software.
 - 🌱 Actualmente estoy aprendiendo C#, Java y me gustaría aprender algunos lenguajes de desarrollo web como Javascript, CSS, HTML, etcétera.
-- 🤔 Estoy buscando ayuda sobre los lenguajes que estoy aprendiendo y me gustaría que me ayudaran con eso.
+- 🤔 Estoy buscando aprender y crecer día con día.
 - 💬 Consultame sobre lo que necesites, incluso si necesitas ayuda con tus proyectos, podríamos colaborar.
 - 📫 Cómo comunicarse conmigo: Pueden contactarme a través de programming.matt@gmail.com o +57 3126706356
 - 😄 Pronombres: El
